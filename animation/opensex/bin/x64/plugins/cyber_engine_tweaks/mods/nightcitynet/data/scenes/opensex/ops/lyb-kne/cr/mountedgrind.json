@@ -72,7 +72,13 @@
  ],
  "tags": [],
  "furniture": null,
- "acts": [],
+ "acts": [
+  {
+   "type": "grinding",
+   "actor": "a",
+   "target": "b"
+  }
+ ],
  "strip": [
   [
    "outer",

@@ -7296,42 +7296,83 @@
  {
   "id": "OpS|Kne!LyB|VJ|LesbianKneLyBCunnilingus",
   "file": "meshes/0SA/mod/0Sex/scene/OpS/KneLyB/VJ/LesbianKneLyBCunnilingus.xml",
-  "name": "OPrivacy Redirect to Spooning Idle",
+  "name": "Kneeling Cunnilingus",
   "animator": "Ace",
   "style": "OScene",
-  "tags": [
-   "transition"
-  ],
+  "tags": [],
   "actors": [
    {
     "position": 0,
-    "penisAngle": "2",
-    "feetOnGround": "0",
-    "tags": "kneeling,lyingside",
-    "sex": "m"
+    "tags": "kneeling",
+    "sex": "f"
    },
    {
     "position": 1,
-    "feetOnGround": "0",
-    "tags": "lyingback,lyingside",
+    "tags": "lyingback",
     "sex": "f"
    }
   ],
-  "start": "_Ho-OPLesbianTransition",
+  "start": "_VJ-LesbianKneLyBCunnilingus_S0",
   "anims": [
    {
-    "id": "_Ho-OPLesbianTransition",
-    "t": "T",
-    "l": "1",
-    "dest": "OpS|LyS!LyS|Ho|SpooningIdle",
+    "id": "_VJ-LesbianKneLyBCunnilingus_S0",
+    "t": "L",
+    "l": "2",
+    "speed": 0.5,
     "clips": [
-     "ho-oplesbiantransition_0",
-     "ho-oplesbiantransition_1"
+     "vj-lesbianknelybcunnilingus_s0_0",
+     "vj-lesbianknelybcunnilingus_s0_1"
+    ]
+   },
+   {
+    "id": "_VJ-LesbianKneLyBCunnilingus_S1",
+    "t": "L",
+    "l": "2",
+    "speed": 0.75,
+    "clips": [
+     "vj-lesbianknelybcunnilingus_s1_0",
+     "vj-lesbianknelybcunnilingus_s1_1"
+    ]
+   },
+   {
+    "id": "_VJ-LesbianKneLyBCunnilingus_S2",
+    "t": "L",
+    "l": "2",
+    "speed": 1.5,
+    "clips": [
+     "vj-lesbianknelybcunnilingus_s2_0",
+     "vj-lesbianknelybcunnilingus_s2_1"
+    ]
+   },
+   {
+    "id": "_VJ-LesbianKneLyBCunnilingus_S3",
+    "t": "L",
+    "l": "2",
+    "speed": 2.0,
+    "clips": [
+     "vj-lesbianknelybcunnilingus_s3_0",
+     "vj-lesbianknelybcunnilingus_s3_1"
+    ]
+   },
+   {
+    "id": "_VJ-LesbianKneLyBCunnilingus_S4",
+    "t": "L",
+    "l": "2",
+    "speed": 3.0,
+    "clips": [
+     "vj-lesbianknelybcunnilingus_s4_0",
+     "vj-lesbianknelybcunnilingus_s4_1"
     ]
    }
   ],
-  "goes": [],
-  "actions": []
+  "goes": [
+   "OpS|Sta!Sta|Ho|LesbianAnimationHub"
+  ],
+  "actions": [
+   {},
+   {}
+  ],
+  "restoredFrom": "140a6680^"
  },
  {
   "id": "OpS|Kne!LyS|Ap|FemaleLyingOnSide",
@@ -8012,6 +8053,87 @@
    "OpS|LyB!LyS|Em|LyingCuddling"
   ],
   "actions": []
+ },
+ {
+  "id": "OpS|LyB!AFo|VHJ|AceLesbian69Fingering",
+  "file": "meshes/0SA/mod/0Sex/scene/OpS/LyBAFo/VHJ/AceLesbian69Fingering.xml",
+  "name": "Lesbian 69 Fingering",
+  "animator": "Ace",
+  "style": "OScene",
+  "tags": [],
+  "actors": [
+   {
+    "position": 0,
+    "tags": "lyingback",
+    "sex": "f"
+   },
+   {
+    "position": 1,
+    "tags": "allfours",
+    "sex": "f"
+   }
+  ],
+  "start": "_VHJ-AceLesbian69Fingering_S1",
+  "anims": [
+   {
+    "id": "_VHJ-AceLesbian69Fingering_S1",
+    "t": "L",
+    "l": "2",
+    "speed": 0.5,
+    "clips": [
+     "vhj-acelesbian69fingering_s1_0",
+     "vhj-acelesbian69fingering_s1_1"
+    ]
+   },
+   {
+    "id": "_VHJ-AceLesbian69Fingering_S2",
+    "t": "L",
+    "l": "2",
+    "speed": 0.75,
+    "clips": [
+     "vhj-acelesbian69fingering_s2_0",
+     "vhj-acelesbian69fingering_s2_1"
+    ]
+   },
+   {
+    "id": "_VHJ-AceLesbian69Fingering_S3",
+    "t": "L",
+    "l": "2",
+    "speed": 1.5,
+    "clips": [
+     "vhj-acelesbian69fingering_s3_0",
+     "vhj-acelesbian69fingering_s3_1"
+    ]
+   },
+   {
+    "id": "_VHJ-AceLesbian69Fingering_S4",
+    "t": "L",
+    "l": "2",
+    "speed": 2.0,
+    "clips": [
+     "vhj-acelesbian69fingering_s4_0",
+     "vhj-acelesbian69fingering_s4_1"
+    ]
+   },
+   {
+    "id": "_VHJ-AceLesbian69Fingering_S5",
+    "t": "L",
+    "l": "2",
+    "speed": 3.0,
+    "clips": [
+     "vhj-acelesbian69fingering_s5_0",
+     "vhj-acelesbian69fingering_s5_1"
+    ]
+   }
+  ],
+  "goes": [
+   "OpS|Sta!Sta|Ho|LesbianAnimationHub"
+  ],
+  "actions": [
+   {},
+   {}
+  ],
+  "restoredFrom": "140a6680^"
  },
  {
   "id": "OpS|LyB!Kne!Kne|BJ|3PLyingFellatio",
@@ -17862,6 +17984,51 @@
     "target": "1"
    }
   ]
+ },
+ {
+  "id": "OpS|Sta!Sta|Ho|LesbianAnimationHub",
+  "file": "meshes/0SA/mod/0Sex/scene/OpS/StaSta/Ho/LesbianAnimationHub.xml",
+  "name": "Standing Together",
+  "animator": "Ace",
+  "style": "OScene",
+  "tags": [
+   "idle",
+   "intro"
+  ],
+  "actors": [
+   {
+    "position": 0,
+    "tags": "standing",
+    "sex": "f"
+   },
+   {
+    "position": 1,
+    "tags": "standing",
+    "sex": "f"
+   }
+  ],
+  "start": "_Ho-StandingLesbianHub",
+  "anims": [
+   {
+    "id": "_Ho-StandingLesbianHub",
+    "t": "L",
+    "l": "2",
+    "clips": [
+     "ho-standinglesbianhub_0",
+     "ho-standinglesbianhub_1"
+    ]
+   }
+  ],
+  "goes": [
+   "0MF|Sy6!Sy9|Ho|St9Adore",
+   "OpS|Kne!LyB|VJ|LesbianKneLyBCunnilingus",
+   "OpS|LyB!AFo|VHJ|AceLesbian69Fingering"
+  ],
+  "actions": [
+   {},
+   {}
+  ],
+  "restoredFrom": "140a6680^"
  },
  {
   "id": "OpS|Sta!Sta|Ho|RubbingAssAgainstCrotch",
