@@ -15949,22 +15949,6 @@
    "woman_fat": "opensex\\anims\\woman_fat\\gen_lyslys_wa_woman_fat.anims"
   }
  },
- "opensex/gen-spooningidle-fix--standingholding_0": {
-  "m": {
-   "npc": "opensex\\anims\\npc\\gen_lyslys_ma.anims",
-   "player": "opensex\\anims\\player\\gen_lyslys_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\gen_lyslys_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\gen_lyslys_ma_man_fat.anims"
-  }
- },
- "opensex/gen-spooningidle-fix--standingholding_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\gen_lyslys_wa.anims",
-   "player": "opensex\\anims\\player\\gen_lyslys_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\gen_lyslys_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\gen_lyslys_wa_woman_fat.anims"
-  }
- },
  "opensex/gen-spooningkissing--lesbiananimationhub_0": {
   "m": {
    "npc": "opensex\\anims\\npc\\gen_lyslys_ma.anims",
@@ -20861,48 +20845,6 @@
    "man_fat": "opensex\\anims\\man_fat\\lybkne_ma_man_fat.anims"
   }
  },
- "opensex/ho-rubbingassagainstcrotch-fix_s1_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/ho-rubbingassagainstcrotch-fix_s2_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/ho-rubbingassagainstcrotch-fix_s3_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
  "opensex/ho-rubbingassagainstcrotch_s1_0": {
   "m": {
    "npc": "opensex\\anims\\npc\\stasta_ma.anims",
@@ -21058,20 +21000,6 @@
   }
  },
  "opensex/ho-sleepingidle_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\lyslys_wa.anims",
-   "player": "opensex\\anims\\player\\lyslys_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\lyslys_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\lyslys_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\lyslys_ma.anims",
-   "player": "opensex\\anims\\player\\lyslys_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\lyslys_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\lyslys_ma_man_fat.anims"
-  }
- },
- "opensex/ho-spooningidle-fix_1": {
   "f": {
    "npc": "opensex\\anims\\npc\\lyslys_wa.anims",
    "player": "opensex\\anims\\player\\lyslys_pwa.anims",
@@ -24628,62 +24556,6 @@
   }
  },
  "opensex/sx-acestandingsexforwardbend_s4_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-acestandingwheelbarrow-fix_s1_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-acestandingwheelbarrow-fix_s2_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-acestandingwheelbarrow-fix_s3_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-acestandingwheelbarrow-fix_s4_1": {
   "f": {
    "npc": "opensex\\anims\\npc\\stasta_wa.anims",
    "player": "opensex\\anims\\player\\stasta_pwa.anims",
@@ -29976,62 +29848,6 @@
   }
  },
  "opensex/sx-standingrearsex_s4_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-standingrearsexholdingarms-fix_s1_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-standingrearsexholdingarms-fix_s2_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-standingrearsexholdingarms-fix_s3_1": {
-  "f": {
-   "npc": "opensex\\anims\\npc\\stasta_wa.anims",
-   "player": "opensex\\anims\\player\\stasta_pwa.anims",
-   "woman_big": "opensex\\anims\\woman_big\\stasta_wa_woman_big.anims",
-   "woman_fat": "opensex\\anims\\woman_fat\\stasta_wa_woman_fat.anims"
-  },
-  "m": {
-   "npc": "opensex\\anims\\npc\\stasta_ma.anims",
-   "player": "opensex\\anims\\player\\stasta_pma.anims",
-   "man_big": "opensex\\anims\\man_big\\stasta_ma_man_big.anims",
-   "man_fat": "opensex\\anims\\man_fat\\stasta_ma_man_fat.anims"
-  }
- },
- "opensex/sx-standingrearsexholdingarms-fix_s4_1": {
   "f": {
    "npc": "opensex\\anims\\npc\\stasta_wa.anims",
    "player": "opensex\\anims\\player\\stasta_pwa.anims",
