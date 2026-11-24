@@ -90,7 +90,8 @@
   {
    "type": "manual",
    "actor": "b",
-   "target": "a"
+   "target": "a",
+   "with": "hand"
   }
  ],
  "strip": [
@@ -109,5 +110,6 @@
    "inner",
    "legs"
   ]
- ]
+ ],
+ "kiss": "mouth"
 }

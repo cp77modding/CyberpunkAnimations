@@ -63,7 +63,8 @@
   {
    "type": "manual",
    "actor": "a",
-   "target": "a"
+   "target": "a",
+   "with": "hand"
   }
  ],
  "strip": [

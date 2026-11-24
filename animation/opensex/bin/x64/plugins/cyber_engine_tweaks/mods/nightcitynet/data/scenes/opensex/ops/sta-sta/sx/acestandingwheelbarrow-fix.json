@@ -64,7 +64,12 @@
  "transition": false,
  "next": null,
  "length": null,
- "moves": [],
+ "moves": [
+  {
+   "to": "opensex.gen.acestandingwheelbarrow--standingrearsex",
+   "label": null
+  }
+ ],
  "tags": [],
  "furniture": null,
  "acts": [

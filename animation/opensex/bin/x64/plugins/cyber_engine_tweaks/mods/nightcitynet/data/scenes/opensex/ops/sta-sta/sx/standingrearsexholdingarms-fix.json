@@ -68,7 +68,12 @@
  "transition": false,
  "next": null,
  "length": null,
- "moves": [],
+ "moves": [
+  {
+   "to": "opensex.gen.standingrearsexholdingarms--standingrearsex",
+   "label": null
+  }
+ ],
  "tags": [],
  "furniture": null,
  "acts": [

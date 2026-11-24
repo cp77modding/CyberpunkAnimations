@@ -69,14 +69,51 @@
  "transition": false,
  "next": null,
  "length": null,
- "moves": [],
+ "moves": [
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--standingholdingfrombehind",
+   "label": "return",
+   "priority": -1000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--hugfrombehind",
+   "label": "hug {1}",
+   "priority": 2000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--cuddlefrombehind",
+   "label": "cuddle with {1}",
+   "priority": 2000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--ostim2pstandinggropingbreastsfrombehindmf",
+   "label": "grope {1}s breasts",
+   "priority": 2000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--standingspankidle",
+   "label": "bend {1} over for some spankings",
+   "priority": 2000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--squattinggropingbuttbothhands",
+   "label": "grope {1}s butt",
+   "priority": 2000
+  },
+  {
+   "to": "opensex.gen.rubbingassagainstcrotch--buttjobfrombehind",
+   "label": "fuck {1}s butt crack",
+   "priority": 3000
+  }
+ ],
  "tags": [],
  "furniture": null,
  "acts": [
   {
    "type": "manual",
    "actor": "b",
-   "target": "a"
+   "target": "a",
+   "with": "butt"
   }
  ],
  "strip": [
